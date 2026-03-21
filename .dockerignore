@@ -1,0 +1,9 @@
+.git
+.gitignore
+node_modules
+public
+resources
+_hugo_cache
+backup-before-reset
+README.md
+*.log
