@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://devops.azytaku.com"
 languageCode: "en-us"
 title: "Azlan Raban"
 theme: hugo-profile
@@ -178,7 +178,7 @@ params:
         #   url: https://example.com
       customIcons:
         - icon: images/solar_fire.svg
-          url: "https://azytaku.com"
+          url: "https://devops.azytaku.com"
 
   # About
   about:
@@ -335,25 +335,23 @@ params:
         # date: "2009 - 2013"
         # GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
+          Developed a secure full-stack web application featuring authentication and authorization, including password hashing, input validation, session management, and database integration. Strengthened frontend development skills, practiced Git-based collaboration, and implemented automated and manual testing to ensure feature stability, integration reliability, and smooth user flows
+          
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
+          - Collaborated in peer-led study groups focused on web development and software engineering fundamentals.
+          - Participated in coding workshops, hackathons, and tech community events to sharpen problem-solving and teamwork skills.
+          - Supported university tech events and mentoring sessions, helping classmates debug assignments and improve project workflows.        featuredLink:
           enable: false
           name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
+      #     url: "https://example.com"
+      # - title: "High School"
+      #   school:
+      #     name: "Thomas Jefferson High School for Science and Technology."
+      #     url: "https://example.org"
+      #   GPA: "4.2 out of 5.0"
+      #   featuredLink:
+      #     enable: false
+      #     url: "https://example.com"
 
   # Achievements
   achievements:
@@ -450,9 +448,9 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/azytaku
-      linkedin: https://linkedin.com
+      linkedin: https://www.linkedin.com/in/azlan-raban-2248991b9/
       # twitter: https://twitter.com
-      instagram: https://instagram.com
+      instagram: https://www.instagram.com/azy_taku/
       # facebook: https://facebook.com
 
   # List pages like blogs and posts
