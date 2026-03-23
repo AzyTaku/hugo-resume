@@ -184,7 +184,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/metoo22.jpg"
+    image: "/images/metoo22.svg"
     content: |-
       DevOps Engineer focused on scalable Kubernetes infrastructure, automated CI/CD, and resilient cloud systems.
       I build pipelines, platforms, and processes that help teams ship faster with fewer failures.
