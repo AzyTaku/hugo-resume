@@ -219,33 +219,33 @@ params:
     # title: "Custom Name"
     items:
       - company: "Aintegrator"
-        # companyUrl: "https://example.com"
+        companyUrl: "https://aintegrator.ch"
         jobs:
           - name: "DevOps Engineer"
             date: "Oct 2025 - present"
             content: "As a DevOps Engineer at AIntegrator, I led key initiatives across CI/CD modernization, Kubernetes infrastructure, cloud deployments, backup strategy, and production readiness. My work directly improved system reliability, developer productivity, and deployment consistency across multiple customer-facing platforms, including Transcript, Valais, and LiaChat.
 
 
-            CI/CD Automation and Pipeline Improvements
+            - CI/CD Automation and Pipeline Improvements
 
             Replaced manual weekly deployments (5/week) with automated reusable GitHub Actions workflows, enabling 5+ deployments per day.
             Implemented PR-label–based Dev → STG promotion, eliminating human error.
             Result: Zero pipeline failures and significantly fewer errors reaching production.
 
-            Kubernetes and Multi-Cluster Management
+            - Kubernetes and Multi-Cluster Management
 
             Managed three Kubernetes clusters across STG and PRD with a combined 10 nodes, hosting multiple microservices, across Transcript, LiaChat, and Valais clusters.
             Standardized production-ready deployments with Helm and GitOps (ArgoCD).
             Diagnosed and fixed cluster-level issues including OIDC failures, networking issues, ingress routing, and service misconfigurations.
 
-            Monitoring, Alerting & Observability (Built from scratch)
+            - Monitoring, Alerting & Observability (Built from scratch)
 
             Introduced full observability stack where none existed before.
             Set up Grafana Cloud with dashboards for CPU, RAM, disk, pod metrics, and cluster health.
             Integrated log aggregation using Grafana Alloy.
             Result: Faster incident detection and improved overall reliability (99% uptime).
 
-            Disaster Recovery & Backup Strategy (3-2-1 Rule)
+            - Disaster Recovery & Backup Strategy (3-2-1 Rule)
             
             Designed and implemented daily 3-2-1 backups for - LiaChat (STG/PRD), LiaTranscript (STG/PRD), Valais (STG), Passbolt.
             Automated backup jobs via Kubernetes CronJobs across all clusters.
@@ -271,23 +271,22 @@ params:
           #   content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
 
       - company: "Victrix Tech"
-        companyUrl: "https://example.com"
+        # companyUrl: "https://example.com"
         jobs:
-          - name: "Software Developer"
-            date: "Sep 2020 - Dec 2021"
-            info:
-              content: I worked as a software developer for more than one year in Amazon.
+          - name: "Quality Assuarance Engineer"
+            date: "February, 2025 - August, 2025"
+            # info:
+              # content: I worked as a software developer for more than one year in Amazon.
             content: |
-              I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-              - Lead backend developer for a product.
-              - Created a frontend design for a product.
+              Actively led QA efforts in a fast-paced full-stack development environment, taking ownership of test strategy, execution, and quality standards across multiple services. Implemented automated tests using Jest and Supertest for API verification, and Cypress for end-to-end coverage, ensuring product reliability throughout rapid release cycles.
+              - Stepped into a hybrid engineering role—functioning as both QA and the de facto lead—collaborating closely with backend and frontend teams to drive quality decisions, identify gaps, and maintain stability throughout the product lifecycle. Integrated automated test suites into the CI pipeline using GitHub Actions, enabling test execution on every pull request and merge for early defect detection and stronger continuous integration.
+              - Leveraged tools such as Postman and MongoDB Compass for debugging, validation, and ensuring consistent API and database behavior. Demonstrated fast learning, reliability, and strong problem-solving skills, becoming a trusted contributor despite the short five-month timeframe.
 
       - company: "Mandadev"
-        companyUrl: "https://example.com"
+        companyUrl: "https://mandadev.com/"
         jobs: 
         - name: "Trainee Software Developer"
-          date: "Jan 2020 - Aug 2020"
+          date: "July, 2024 - January, 2025"
           # featuredItems:
           #   fontAwesomeIcons:
           #     - icon: fa-brands fa-react
@@ -298,10 +297,12 @@ params:
           #     - icon: images/solar_fire.svg
           #       url: "https://example.com"
           content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
+            - Gained hands-on experience working extensively with the MERN stack (MongoDB, Express.js, React, Node.js), developing, testing, and deploying scalable web applications.
+            - Collaborated closely with a German client to enhance their CRM system, implementing backend API improvements and fine-tuning frontend features to improve usability and performance.
+            - Strengthened frontend development skills using React and Tailwind CSS to build responsive and visually appealing user interfaces aligned with modern UX principles.
+            - Enhanced backend development proficiency in Node.js, focusing on API design, integration, and debugging using tools like Postman and MongoDB Compass.
+            - Applied version control best practices using Git and GitHub, participating in code reviews and continuous integration workflows to maintain code quality and team collaboration.
+            - Deepened understanding of software engineering fundamentals and industry best practices through hands-on coding, peer feedback, and iterative learning.
 
       
       # - company: "Google"
