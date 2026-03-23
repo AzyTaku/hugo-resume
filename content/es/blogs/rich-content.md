@@ -40,7 +40,6 @@ Hugo viene con varios [Shortcodes Integrados](https://gohugo.io/content-manageme
 {{</* gist spf13 7896402 */>}}
 ```
 <br>
-{{< gist spf13 7896402 >}}
 <br>
 
 ---

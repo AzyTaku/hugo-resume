@@ -36,6 +36,9 @@ outputs:
 
 enableRobotsTXT: true
 
+ignoreLogs:
+  - shortcode-x-getremote
+
 #services:
   #googleAnalytics:
     #id: G-MEASUREMENT_ID
@@ -200,7 +203,7 @@ params:
         - "Helm"
         - "Kubectl"      
         - "CI/CD"
-        - "Cloud"
+        - "Cloudflare"
         - "GitOps"
         - "Bash / Shell Scripting"
         - "Python"

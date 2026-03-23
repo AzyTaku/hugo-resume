@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frs on Azlan Raban</title>
-    <link>https://hugo-profile.netlify.app/fr/</link>
+    <link>http://localhost:1313/fr/</link>
     <description>Recent content in Frs on Azlan Raban</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Galerie d&#39;Images</title>
-      <link>https://hugo-profile.netlify.app/fr/gallery/</link>
+      <link>http://localhost:1313/fr/gallery/</link>
       <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
-      <guid>https://hugo-profile.netlify.app/fr/gallery/</guid>
+      <guid>http://localhost:1313/fr/gallery/</guid>
       <description></description>
     </item>
   </channel>
