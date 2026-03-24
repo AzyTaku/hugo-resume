@@ -1,0 +1,29 @@
+HTTP/2.0 200 OK
+Cache-Control: must-revalidate, max-age=3153600000
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 9e1327473a2b6bf3-SIN
+Content-Disposition: attachment; filename=json.json
+Content-Type: application/json; charset=utf-8
+Date: Tue, 24 Mar 2026 05:07:38 GMT
+Expires: Thu, 28 Feb 2126 05:07:38 GMT
+Last-Modified: Tue, 24 Mar 2026 05:07:38 GMT
+Origin-Cf-Ray: 9e1327473a2b6bf3-SEA
+Perf: 7402827104
+Server: cloudflare envoy
+Set-Cookie: guest_id_marketing=v1%3A177432885885098521; Max-Age=63072000; Expires=Thu, 23 Mar 2028 05:07:38 GMT; Path=/; Domain=.x.com; Secure; SameSite=None
+Set-Cookie: guest_id_ads=v1%3A177432885885098521; Max-Age=63072000; Expires=Thu, 23 Mar 2028 05:07:38 GMT; Path=/; Domain=.x.com; Secure; SameSite=None
+Set-Cookie: personalization_id="v1_EWoOmORAXrAMnVQ/dC8Hpg=="; Max-Age=63072000; Expires=Thu, 23 Mar 2028 05:07:38 GMT; Path=/; Domain=.x.com; Secure; SameSite=None
+Set-Cookie: guest_id=v1%3A177432885885098521; Max-Age=63072000; Expires=Thu, 23 Mar 2028 05:07:38 GMT; Path=/; Domain=.x.com; Secure; SameSite=None
+Set-Cookie: __cf_bm=uXOjKFGFJH43n0H3tLR.3MhTwBENXDLYvawX5klbcO0-1774328858.7532508-1.0.1.1-1qIUpnrwLeOz42__HjEJD3O8q7KsZCZ9dJPTLDZw6J0JpPpya5fICeXqLRoRo0Fjg34n9I52h_FW4arUV9RMzy3eZcldI7uckt_4Yv_6NRjeYCQGUpTnZwLnOQ6qLPOG; HttpOnly; Secure; Path=/; Domain=x.com; Expires=Tue, 24 Mar 2026 05:37:38 GMT
+Strict-Transport-Security: max-age=631138519; includeSubdomains
+Vary: accept-encoding
+X-Content-Type-Options: nosniff
+X-Etags-1: ebf03ba2c2dd825bf67ff68cfe8bccba
+X-Etags-2: ebf03ba2c2dd825bf67ff68cfe8bccba
+X-Frame-Options: SAMEORIGIN
+X-Response-Time: 22
+X-Served-By: t4_p
+X-Transaction-Id: c4718536109be6f0
+X-Xss-Protection: 0
+
+{"url":"https:\/\/twitter.com\/GoHugoIO\/status\/1315233626070503424","author_name":"GoHugo.io","author_url":"https:\/\/twitter.com\/GoHugoIO","html":"\u003Cblockquote class=\"twitter-tweet\"\u003E\u003Cp lang=\"en\" dir=\"ltr\"\u003EProfile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by \u003Ca href=\"https:\/\/twitter.com\/gurusabarishh?ref_src=twsrc%5Etfw\"\u003E@gurusabarishh\u003C\/a\u003E.\u003Ca href=\"https:\/\/t.co\/KwYcwfdy16\"\u003Ehttps:\/\/t.co\/KwYcwfdy16\u003C\/a\u003E\u003C\/p\u003E&mdash; GoHugo.io (@GoHugoIO) \u003Ca href=\"https:\/\/twitter.com\/GoHugoIO\/status\/1315233626070503424?ref_src=twsrc%5Etfw\"\u003EOctober 11, 2020\u003C\/a\u003E\u003C\/blockquote\u003E\n\u003Cscript async src=\"https:\/\/platform.twitter.com\/widgets.js\" charset=\"utf-8\"\u003E\u003C\/script\u003E\n\n","width":550,"height":null,"type":"rich","cache_age":"3153600000","provider_name":"Twitter","provider_url":"https:\/\/twitter.com","version":"1.0"}

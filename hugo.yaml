@@ -12,12 +12,12 @@ languages:
     languageName: "English"
     weight: 1
     contentDir: "content"
-    # menu:
-    #   main:
-    #     - identifier: blog
-    #       name: Blog
-    #       title: Blog posts
-    #       url: /blogs
+    menu:
+      main:
+        - identifier: blog
+          name: Blog
+          title: Blog posts
+          url: /blogs
     #       weight: 1
     #     - identifier: gallery
     #       name: Gallery
@@ -46,7 +46,7 @@ ignoreLogs:
     #shortname: your-disqus-shortname
 
 pagination:
-  pagerSize: 3
+  pagerSize: 6
 
 markup:
   goldmark:
@@ -82,7 +82,7 @@ params:
   title: "Azlan Raban"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "images/solar_fire.svg"
+  favicon: "/images/solar_fire.svg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -177,7 +177,7 @@ params:
         # - icon: fab fa-x-twitter
         #   url: https://example.com
       customIcons:
-        - icon: images/solar_fire.svg
+        - icon: /images/solar_fire.svg
           url: "https://dev.azytaku.com"
 
   # About

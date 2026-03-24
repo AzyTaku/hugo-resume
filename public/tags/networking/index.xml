@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Azlan Raban</title>
+    <link>http://localhost:1313/tags/networking/</link>
+    <description>Recent content in Networking on Azlan Raban</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2026 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Networking Fundamentals</title>
+      <link>http://localhost:1313/blogs/networking/</link>
+      <pubDate>Mon, 23 Mar 2026 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/networking/</guid>
+      <description>&lt;h2 id=&#34;networking-fundamentals-a-developers-perspective&#34;&gt;Networking Fundamentals: A Developer&amp;rsquo;s Perspective&lt;/h2&gt;&#xA;&lt;p&gt;When you first start out in software engineering, networking can feel like dark magic. You write your code, push it to a server, and somehow it just &amp;ldquo;works&amp;rdquo; over the internet. But once you spend a couple of years building, deploying, and—most importantly—debugging distributed applications, you realize that a solid grasp of networking isn&amp;rsquo;t just for sysadmins; it&amp;rsquo;s a critical developer skill.&lt;/p&gt;&#xA;&lt;p&gt;Whether you are trying to figure out why your Docker containers can&amp;rsquo;t talk to each other, configuring a reverse proxy, or setting up a CI/CD pipeline, understanding the foundational layers of networking saves hours of headaches.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

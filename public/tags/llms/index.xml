@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLMs on Azlan Raban</title>
+    <link>http://localhost:1313/tags/llms/</link>
+    <description>Recent content in LLMs on Azlan Raban</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2026 10:46:25 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/llms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backward Propagation in Large Language Models</title>
+      <link>http://localhost:1313/blogs/math/</link>
+      <pubDate>Tue, 24 Mar 2026 10:46:25 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/math/</guid>
+      <description>&lt;h2 id=&#34;unboxing-the-black-box&#34;&gt;Unboxing the Black Box&lt;/h2&gt;&#xA;&lt;p&gt;As software engineers, it is easy to treat modern Large Language Models (LLMs) as magical black boxes. We send an API request, and a perfectly reasoned response comes back. But under the hood, whether it&amp;rsquo;s a massive transformer model or a simple classifier, the core mechanism driving how these networks &lt;em&gt;learn&lt;/em&gt; remains largely unchanged from a breakthrough paper published in &lt;em&gt;Nature&lt;/em&gt; back in October 1986: &lt;strong&gt;&amp;ldquo;Learning representations by back-propagating errors.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

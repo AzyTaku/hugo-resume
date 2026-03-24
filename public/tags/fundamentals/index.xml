@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundamentals on Azlan Raban</title>
+    <link>http://localhost:1313/tags/fundamentals/</link>
+    <description>Recent content in Fundamentals on Azlan Raban</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2026 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Networking Fundamentals</title>
+      <link>http://localhost:1313/blogs/networking/</link>
+      <pubDate>Mon, 23 Mar 2026 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/networking/</guid>
+      <description>&lt;h2 id=&#34;networking-fundamentals-a-developers-perspective&#34;&gt;Networking Fundamentals: A Developer&amp;rsquo;s Perspective&lt;/h2&gt;&#xA;&lt;p&gt;When you first start out in software engineering, networking can feel like dark magic. You write your code, push it to a server, and somehow it just &amp;ldquo;works&amp;rdquo; over the internet. But once you spend a couple of years building, deploying, and—most importantly—debugging distributed applications, you realize that a solid grasp of networking isn&amp;rsquo;t just for sysadmins; it&amp;rsquo;s a critical developer skill.&lt;/p&gt;&#xA;&lt;p&gt;Whether you are trying to figure out why your Docker containers can&amp;rsquo;t talk to each other, configuring a reverse proxy, or setting up a CI/CD pipeline, understanding the foundational layers of networking saves hours of headaches.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neural Networks</title>
+      <link>http://localhost:1313/blogs/math/</link>
+      <pubDate>Fri, 20 Mar 2026 10:50:15 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/math/</guid>
+      <description>&lt;h2 id=&#34;the-architecture-of-learning-understanding-back-propagation&#34;&gt;The Architecture of Learning: Understanding Back-Propagation&lt;/h2&gt;&#xA;&lt;p&gt;In the world of modern AI, we often talk about &amp;ldquo;training&amp;rdquo; models as if it’s a magical process. We feed data into a system, and it eventually starts recognizing patterns. But for a long time, researchers were stuck on a specific problem: how do you teach the &amp;ldquo;middle&amp;rdquo; of a network to learn?&lt;/p&gt;&#xA;&lt;p&gt;The answer came in 1986 with a landmark paper published in &lt;em&gt;Nature&lt;/em&gt; titled &lt;strong&gt;&amp;ldquo;Learning representations by back-propagating errors&amp;rdquo;&lt;/strong&gt; by David Rumelhart, Geoffrey Hinton, and Ronald Williams. This paper provided the blueprint for how almost every modern neural network—including the LLMs we use today—actually learns.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
