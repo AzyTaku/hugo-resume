@@ -1,4 +1,4 @@
-baseURL: "https://devops.azytaku.com"
+baseURL: "https://dev.azytaku.com"
 languageCode: "en-us"
 title: "Azlan Raban"
 theme: hugo-profile
@@ -178,7 +178,7 @@ params:
         #   url: https://example.com
       customIcons:
         - icon: images/solar_fire.svg
-          url: "https://devops.azytaku.com"
+          url: "https://dev.azytaku.com"
 
   # About
   about:
