@@ -142,14 +142,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/emoji-support/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/placeholder-text/</loc>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/rich-content/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
   </url>
 </urlset>

@@ -102,7 +102,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # light
 
   font:
     fontSize: 1rem # default: 1rem
@@ -141,7 +141,7 @@ params:
     stickyNavBar:
       enable : true
       showOnScrollUp : true
-    enableSeparator: false
+    enableSeparator: true
     menus:
       disableAbout: false
       disableExperience: false
@@ -444,7 +444,7 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: false
+      enable: true
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/azytaku
@@ -466,7 +466,7 @@ params:
     scrollprogress:
       enable: true
     tags:
-      openInNewTab: true
+      openInNewTab: false
 
   # For translations
   terms:
