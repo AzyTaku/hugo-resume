@@ -165,7 +165,8 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      # url: "#"
+      url: "images/projects/Azlan-Raban-DevOps.pdf"
       download: true
       newPage: false
     socialLinks:
