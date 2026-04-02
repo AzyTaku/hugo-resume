@@ -1,5 +1,5 @@
 ---
-title: "What Is DevOps? A Complete Guide for Modern Engineers"
+title: "What Is DevOps?"
 date: 2026-03-26T22:10:00+05:30
 draft: false
 author: "Azlan Raban"
