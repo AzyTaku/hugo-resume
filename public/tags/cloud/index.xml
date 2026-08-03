@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on Azlan Raban</title>
+    <link>http://localhost:1313/tags/cloud/</link>
+    <description>Recent content in Cloud on Azlan Raban</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2026 22:10:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is DevOps?</title>
+      <link>http://localhost:1313/blogs/devops/</link>
+      <pubDate>Thu, 26 Mar 2026 22:10:00 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/devops/</guid>
+      <description>&lt;h1 id=&#34;what-is-devops-a-practical-guide-inspired-by-aws&#34;&gt;What Is DevOps? A Practical Guide Inspired by AWS&lt;/h1&gt;&#xA;&lt;p&gt;DevOps isn’t just a set of tools—it&amp;rsquo;s a culture and a way of building software that focuses on &lt;strong&gt;speed&lt;/strong&gt;, &lt;strong&gt;reliability&lt;/strong&gt;, &lt;strong&gt;collaboration&lt;/strong&gt;, and &lt;strong&gt;continuous improvement&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;According to AWS, DevOps combines cultural philosophies, engineering practices, and automation tools to help teams deliver applications faster and operate them more efficiently. In simpler terms: DevOps helps you ship faster, with fewer bugs, and with happier teams.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

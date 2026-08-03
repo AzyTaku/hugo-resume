@@ -1,4 +1,4 @@
-baseURL: "https://dev.azytaku.com"
+baseURL: "https://azytaku.com"
 languageCode: "en-us"
 title: "Azlan Raban"
 theme: hugo-profile
@@ -164,9 +164,16 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
+      name: "DevOps"
       # url: "#"
-      url: "images/projects/Azlan-Raban-DevOps.pdf"
+      url: "images/projects/Resume-DevOps.pdf"
+      download: true
+      newPage: false
+    button0:
+      enable: false
+      name: "Engineering"
+      # url: "#"
+      url: "images/projects/Resume-DevOps.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -179,7 +186,7 @@ params:
         #   url: https://example.com
       customIcons:
         - icon: /images/solar_fire.svg
-          url: "https://dev.azytaku.com"
+          url: "https://azytaku.com"
 
   # About
   about:

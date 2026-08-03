@@ -26,6 +26,14 @@
                             {{ $hero.button.name | default .Site.Params.hero.button.name }}
                         </a>
                         {{ end }}
+                        {{ if .Site.Params.hero.button0.enable }}
+                        <a href="{{ .Site.Params.hero.button0.url }}" class="btn" {{ cond .Site.Params.hero.button0.download "download" "" }}
+			  {{ if .Site.Params.hero.button0.newPage | default true }}
+                          target="_blank"
+                          {{ end }}>
+                            {{ $hero.button0.name | default .Site.Params.hero.button0.name }}
+                        </a>
+                        {{ end }}
                     </div>
                     <div class="col-auto px-0 h-100">
                         {{- partial "sections/hero/social.html" . -}}
