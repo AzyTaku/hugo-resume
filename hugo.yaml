@@ -166,7 +166,7 @@ params:
       enable: true
       name: "DevOps"
       # url: "#"
-      url: "images/projects/Resume-DevOps.pdf"
+      url: "images/projects/AzlanRaban-DevOps.pdf"
       download: true
       newPage: false
     button0:
